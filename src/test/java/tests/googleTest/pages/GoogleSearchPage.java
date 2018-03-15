@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 import java.util.ArrayList;
 import java.util.List;
 
-public class GoogleSearchPageImpl {
+public class GoogleSearchPage {
 
     private List<WebElement> webElements = new ArrayList<WebElement>();
     private List<String> titleList = new ArrayList<String>();

@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-public class GoogleMainPageImpl {
+public class GoogleMainPage {
 
     private WebElement search;
     private WebElement googleSearchButton;
