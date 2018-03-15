@@ -17,7 +17,7 @@ public class GoogleSearchTestImpl implements GoogleSearchTest {
     private WebElement search;
     private WebElement googleSearchButton;
 
-    public void checkPage(String pageName, WebDriver driver){
+    public void checkStartPage(String pageName, WebDriver driver){
         Assert.assertEquals(pageName, driver.getTitle());
     }
 
