@@ -46,7 +46,13 @@ public class FirstTest {
         webElements = (driver.findElements(By.className("iUh30")));
         System.out.println(webElements.size());
 
+        /** Вытаскиваем все урлы с каждого елемента */
+        for (int i = 0; i < webElements.size(); i++){
+            urlsList.add(webElements.get(i).getText());
+        }
+
         for (int i = 0; i < urlsList.size(); i++){
+            System.out.println("asdklfna;dsjkgbaslgdblaskdng");
             String url = urlsList.get(i);
             driver.get(url);
             System.out.println("\n"+url);
