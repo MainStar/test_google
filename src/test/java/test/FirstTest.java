@@ -60,12 +60,15 @@ public class FirstTest {
 
         String [] massTitle;
         massTitle = title.split(" ");
+        String checkJavaLetter = null;
         for (int i = 0; i < massTitle.length; i++){
             if (massTitle[i].equals("Java") || massTitle[i].equals("java")){
                 Assert.assertEquals("Java", massTitle[i]);
+                checkJavaLetter = "true";
             }else {
                 Assert.assertNotEquals("Java", massTitle[i]);
             }
         }
+        Assert.assertEquals("true", checkJavaLetter);
     }
 }
