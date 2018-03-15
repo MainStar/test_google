@@ -1,4 +1,4 @@
-package test;
+package tests;
 
 import org.junit.AfterClass;
 import org.junit.Assert;
@@ -44,7 +44,6 @@ public class FirstTest {
 
         /** Ввытаскиваем все ссылки с каждого поиска гугл */
         webElements = (driver.findElements(By.className("iUh30")));
-        System.out.println(webElements.size());
 
         /** Вытаскиваем все урлы с каждого елемента */
         for (int i = 0; i < webElements.size(); i++){
@@ -52,7 +51,6 @@ public class FirstTest {
         }
 
         for (int i = 0; i < urlsList.size(); i++){
-            System.out.println("asdklfna;dsjkgbaslgdblaskdng");
             String url = urlsList.get(i);
             driver.get(url);
             System.out.println("\n"+url);

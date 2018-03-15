@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a4e10ea7-389d-406f-a8ac-f81f13f92a9d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/FirstTest.java" afterPath="$PROJECT_DIR$/src/test/java/tests/FirstTest.java" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/test/FirstTest.class" afterPath="$PROJECT_DIR$/target/test-classes/test/FirstTest.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,113 +27,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/test/FirstTest.java">
+      <file leaf-file-name="FirstTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/FirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+            <state relative-caret-position="260">
+              <caret line="45" column="67" lean-forward="true" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#453#465#0" expanded="true" />
-                <element signature="e#518#526#0" expanded="true" />
+                <element signature="e#454#466#0" expanded="true" />
+                <element signature="e#519#527#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Assert.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <file leaf-file-name="GoogleTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/GoogleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="54" column="24" lean-forward="false" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="24" />
+            <state relative-caret-position="340">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
-                <marker date="1489061453513" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1489061453513" expanded="false" signature="133:343" ph="..." />
-                <marker date="1489061453513" expanded="true" signature="390:397" ph="{}" />
-                <marker date="1489061453513" expanded="true" signature="468:539" ph="{...}" />
-                <marker date="1489061453513" expanded="false" signature="593:604" ph=" { " />
-                <marker date="1489061453513" expanded="false" signature="640:646" ph=" }" />
-                <marker date="1489061453513" expanded="false" signature="717:728" ph=" { " />
-                <marker date="1489061453513" expanded="false" signature="760:766" ph=" }" />
-                <marker date="1489061453513" expanded="false" signature="821:832" ph=" { " />
-                <marker date="1489061453513" expanded="false" signature="869:875" ph=" }" />
-                <marker date="1489061453513" expanded="true" signature="921:1073" ph="{...}" />
-                <marker date="1489061453513" expanded="false" signature="1104:1115" ph=" { " />
-                <marker date="1489061453513" expanded="false" signature="1134:1140" ph=" }" />
-                <marker date="1489061453513" expanded="true" signature="1226:1627" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="1708:1856" ph="{...}" />
-                <marker date="1489061453513" expanded="false" signature="1925:1936" ph=" { " />
-                <marker date="1489061453513" expanded="false" signature="1967:1973" ph=" }" />
-                <marker date="1489061453513" expanded="true" signature="2043:2120" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="2211:2325" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="2400:2466" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="2534:2760" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="2847:2942" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="3013:3079" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="3184:3304" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="3393:3466" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="3552:3625" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="3752:3817" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="3898:3986" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="4115:4180" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="4263:4353" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="4476:4541" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="4618:4702" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="4825:4890" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="4967:5051" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="5176:5241" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="5320:5406" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="5527:5592" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="5667:5749" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="5872:5937" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="6014:6098" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="6239:6335" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="6430:6505" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="6643:6739" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="6831:6906" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="7032:7121" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="7221:7351" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="7448:7577" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="7679:7798" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="7881:8030" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="8109:8257" ph="{...}" />
-                <marker date="1489061453513" expanded="false" signature="8322:8333" ph=" { " />
-                <marker date="1489061453513" expanded="false" signature="8378:8384" ph=" }" />
-                <marker date="1489061453513" expanded="true" signature="8466:8572" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="8578:8596" ph="/**...*/" />
-                <marker date="1489061453513" expanded="false" signature="8680:8691" ph=" { " />
-                <marker date="1489061453513" expanded="false" signature="8736:8742" ph=" }" />
-                <marker date="1489061453513" expanded="true" signature="8748:8766" ph="/**...*/" />
-                <marker date="1489061453513" expanded="true" signature="8867:8967" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="9051:9119" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="9200:9268" ph="{...}" />
-                <marker date="1489061453513" expanded="false" signature="9337:9348" ph=" { " />
-                <marker date="1489061453513" expanded="false" signature="9384:9390" ph=" }" />
-                <marker date="1489061453513" expanded="false" signature="9443:9454" ph=" { " />
-                <marker date="1489061453513" expanded="false" signature="9490:9496" ph=" }" />
-                <marker date="1489061453513" expanded="true" signature="9563:9652" ph="{...}" />
-                <marker date="1489061453513" expanded="false" signature="9702:9713" ph=" { " />
-                <marker date="1489061453513" expanded="false" signature="9746:9752" ph=" }" />
-                <marker date="1489061453513" expanded="true" signature="9821:10009" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="10093:10196" ph="{...}" />
-                <marker date="1489061453513" expanded="false" signature="10263:10274" ph=" { " />
-                <marker date="1489061453513" expanded="false" signature="10317:10323" ph=" }" />
-                <marker date="1489061453513" expanded="true" signature="10412:10497" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="10570:10634" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="10685:10851" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="10937:11143" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="11231:11287" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="11362:11883" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="11965:12104" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="12110:12128" ph="/**...*/" />
-                <marker date="1489061453513" expanded="true" signature="12235:12298" ph="{...}" />
-                <marker date="1489061453513" expanded="true" signature="12304:12322" ph="/**...*/" />
-                <marker date="1489061453513" expanded="false" signature="12412:12423" ph=" { " />
-                <marker date="1489061453513" expanded="false" signature="12461:12467" ph=" }" />
-                <marker date="1489061453513" expanded="false" signature="12544:12555" ph=" { " />
-                <marker date="1489061453513" expanded="false" signature="12587:12593" ph=" }" />
-                <marker date="1489061453513" expanded="true" signature="12686:12752" ph="{...}" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoogleSearchTestImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/Impl/GoogleSearchTestImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#392#404#0" expanded="true" />
+                <element signature="e#458#466#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#988#989#0" expanded="true" />
+                <element signature="e#1049#1050#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoogleSearchTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/interfaces/GoogleSearchTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,6 +87,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -183,6 +128,15 @@
         <option value="$PROJECT_DIR$/src/test/java/test/GetWebDriver.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/GoogleSearchTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/FirstTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/googleTest/pages/mainPageGoogle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/googleTest/pages/MainPageGoogle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/googleTest/SearchTestGoogle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/googleTest/pages/GoogleSearchTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/googleTest/pages/GoogleSearchTestImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/interfaces/GoogleSearchTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/googleTest/Impl/GoogleSearchTestImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/googleTest/GoogleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/googleTest/Impl/GoogleSearchTestImpl.java" />
       </list>
     </option>
   </component>
@@ -270,53 +224,36 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_google" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_google" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="googleTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_google" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="test_google" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="googleTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_google" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.testng:testng:6.14.2" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="test_google" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.testng:testng:6.14.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="testng-6.14.2.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_google" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.testng:testng:6.14.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="testng-6.14.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_google" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.testng:testng:6.14.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="testng-6.14.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="beust" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_google" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.testng:testng:6.14.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="testng-6.14.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="beust" type="462c0819:PsiDirectoryNode" />
-              <item name="testng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_google" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.testng:testng:6.14.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="testng-6.14.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="test_google" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="googleTest" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -347,19 +284,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android JUnit.FirstTest">
+  <component name="RunManager" selected="Application.GoogleTest">
     <configuration name="FirstTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="test_google" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.FirstTest" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.FirstTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -379,6 +316,25 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
+    <configuration name="GoogleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="tests.googleTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="tests.googleTest.GoogleTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test_google" />
+      <envs />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -393,43 +349,18 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="FirstTest.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="test_google" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.FirstTest" />
-      <option name="METHOD_NAME" value="search" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration name="FirstTest.testGoogleSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="test_google" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.FirstTest" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.FirstTest" />
       <option name="METHOD_NAME" value="testGoogleSearch" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -500,7 +431,7 @@
     <configuration name="GoogleSearchTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -564,18 +495,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Android JUnit.FirstTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.FirstTest.search" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.E:/projects_test/test_google/testng.xml" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FirstTest.testGoogleSearch" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.GoogleSearchTest" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.E:/projects_test/test_google/testng.xml" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.FirstTest.testGoogleSearch" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.GoogleSearchTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GoogleTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Android JUnit.FirstTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FirstTest.testGoogleSearch" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.GoogleSearchTest" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.E:/projects_test/test_google/testng.xml" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.FirstTest.search" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GoogleTest" />
+        <item index="1" class="java.lang.String" itemvalue="Android JUnit.FirstTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.FirstTest.testGoogleSearch" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.GoogleSearchTest" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.E:/projects_test/test_google/testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -681,12 +612,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13113007" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41956523" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48586956" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -819,14 +750,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/FirstTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/FirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="833">
           <caret line="49" column="60" lean-forward="false" selection-start-line="49" selection-start-column="60" selection-end-line="49" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#453#465#0" expanded="true" />
-            <element signature="e#518#526#0" expanded="true" />
+            <element signature="e#454#466#0" expanded="true" />
+            <element signature="e#519#527#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -839,14 +770,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/FirstTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/FirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
           <caret line="56" column="49" lean-forward="false" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#453#465#0" expanded="true" />
-            <element signature="e#518#526#0" expanded="true" />
+            <element signature="e#454#466#0" expanded="true" />
+            <element signature="e#519#527#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -859,14 +790,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/FirstTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/FirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#453#465#0" expanded="true" />
-            <element signature="e#518#526#0" expanded="true" />
+            <element signature="e#454#466#0" expanded="true" />
+            <element signature="e#519#527#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -879,14 +810,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/FirstTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/FirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#453#465#0" expanded="true" />
-            <element signature="e#518#526#0" expanded="true" />
+            <element signature="e#454#466#0" expanded="true" />
+            <element signature="e#519#527#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -923,14 +854,6 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/test/generateBrowser.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/test/asd.java" />
     <entry file="file://$PROJECT_DIR$/testng.xml" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test/GoogleSearchTest.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.2/testng-6.14.2.jar!/com/beust/testng/TestNG.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -1034,14 +957,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/FirstTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/FirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        <state relative-caret-position="260">
+          <caret line="45" column="67" lean-forward="true" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#453#465#0" expanded="true" />
-            <element signature="e#518#526#0" expanded="true" />
+            <element signature="e#454#466#0" expanded="true" />
+            <element signature="e#519#527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/interfaces/GoogleSearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/GoogleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/Impl/GoogleSearchTestImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#392#404#0" expanded="true" />
+            <element signature="e#458#466#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1049#1050#0" expanded="true" />
           </folding>
         </state>
       </provider>
