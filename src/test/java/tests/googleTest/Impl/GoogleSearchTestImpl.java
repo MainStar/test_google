@@ -45,15 +45,12 @@ public class GoogleSearchTestImpl implements GoogleSearchTest {
 
     private void checkTitle(String title){
         String [] titleMass = title.split(" ");
-        String checkJavaLetter = "false";
         for (int i = 0; i < titleMass.length; i++){
             if (titleMass[i].equals("Java") || titleMass[i].equals("java")){
                 Assert.assertEquals("Java", titleMass[i]);
-                checkJavaLetter = "true";
             }else {
                 Assert.assertNotEquals("Java", titleMass[i]);
             }
         }
-        Assert.assertEquals("true", checkJavaLetter);
     }
 }
