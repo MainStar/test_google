@@ -1,1 +1,5 @@
-test\FirstTest.class
+tests\googleTest\interfaces\GoogleSearchTest.class
+tests\FirstTest.class
+tests\Main.class
+tests\googleTest\GoogleTest.class
+tests\googleTest\Impl\GoogleSearchTestImpl.class

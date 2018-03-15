@@ -1,32 +1,17 @@
-package tests.googleTest.Impl;
+package tests.googleTest.pages;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import tests.googleTest.interfaces.GoogleSearchTest;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class GoogleSearchTestImpl implements GoogleSearchTest {
+public class GoogleSearchPageImpl {
 
     private List<WebElement> webElements = new ArrayList<WebElement>();
     private List<String> titleList = new ArrayList<String>();
-
-    private WebElement search;
-    private WebElement googleSearchButton;
-
-    public void checkStartPage(String pageName, WebDriver driver){
-        Assert.assertEquals(pageName, driver.getTitle());
-    }
-
-    public void searchFor(String text, WebDriver driver){
-        search = driver.findElement(By.id("lst-ib"));
-        googleSearchButton = driver.findElement(By.name("btnK"));
-        search.sendKeys(text);
-        googleSearchButton.click();
-    }
 
     public void checkSearchPage(String title, WebDriver driver){
         Assert.assertEquals(title, driver.getTitle());

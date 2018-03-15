@@ -4,7 +4,8 @@ package tests.googleTest;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.PageFactory;
-import tests.googleTest.Impl.GoogleSearchTestImpl;
+import tests.googleTest.pages.GoogleMainPageImpl;
+import tests.googleTest.pages.GoogleSearchPageImpl;
 
 public class GoogleTest {
 
@@ -13,11 +14,12 @@ public class GoogleTest {
         WebDriver driver = new FirefoxDriver();
         driver.get("https://www.google.com/");
 
-        GoogleSearchTestImpl page = PageFactory.initElements(driver, GoogleSearchTestImpl.class);
+        GoogleMainPageImpl page = PageFactory.initElements(driver, GoogleMainPageImpl.class);
+        GoogleSearchPageImpl searchPage = PageFactory.initElements(driver, GoogleSearchPageImpl.class);
         page.checkStartPage("Google", driver);
         page.searchFor("Java", driver);
-        page.checkSearchPage(driver.getTitle(), driver);
-        page.googleSearchTitlesTest(driver);
+        searchPage.checkSearchPage(driver.getTitle(), driver);
+        searchPage.googleSearchTitlesTest(driver);
 
         driver.quit();
     }
