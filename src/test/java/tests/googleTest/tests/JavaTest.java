@@ -18,8 +18,6 @@ public class JavaTest extends WebDriverUtils {
 
     WebDriver driver;
 
-    private WebElement search;
-    private WebElement googleSearchButton;
     private List<WebElement> webElements;
     private List<String> urls = new ArrayList<String>();
 
@@ -42,9 +40,7 @@ public class JavaTest extends WebDriverUtils {
     public void resultSearchTest(){
         GoogleSearchPage searchPage = PageFactory.initElements(driver, GoogleSearchPage.class);
 
-        //Assert.assertEquals("java - Поиск в Google", driver.getTitle());
-        Assert.assertEquals(driver.getTitle(), "java - Поиск в Google", "java - Поиск в Google");
-
+        Assert.assertEquals("java - Поиск в Google", driver.getTitle());
 
         webElements = searchPage.googleSearchTitlesTest(driver);
         for (int i = 0; i < webElements.size(); i++){
