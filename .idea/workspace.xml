@@ -2,34 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4e10ea7-389d-406f-a8ac-f81f13f92a9d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/tests/googleTest/tests/RubyTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/tests/googleTest/utils/WebDriverUtils.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/FirstTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/googleTest/GoogleTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/googleTest/pages/GoogleMainPage.java" afterPath="$PROJECT_DIR$/src/test/java/tests/googleTest/pages/GoogleMainPage.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/googleTest/pages/GoogleSearchPage.java" afterPath="$PROJECT_DIR$/src/test/java/tests/googleTest/pages/GoogleSearchPage.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/GoogleTest.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.html" afterPath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.html" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Command line suite/testng-failed.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/Command line suite/testng-failed.xml" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-tests.GoogleTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-tests.GoogleTest.xml" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-tests.GoogleTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-tests.GoogleTest.xml" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/classes.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/classes.html" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-alphabetical.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-alphabetical.html" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods.html" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/testng.xml.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/testng.xml.html" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/toc.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/toc.html" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tests.GoogleTest/methods-alphabetical.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/tests.GoogleTest/methods-alphabetical.html" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tests.GoogleTest/methods.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/tests.GoogleTest/methods.html" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/FirstTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/googleTest/GoogleTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/googleTest/Impl/GoogleMainPageImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/googleTest/Impl/GoogleSearchPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/googleTest/interfaces/GoogleSearchTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tests.GoogleTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/tests.GoogleTest.txt" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tests.GoogleTest/Command line test.html" afterPath="$PROJECT_DIR$/target/surefire-reports/tests.GoogleTest/Command line test.html" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tests.GoogleTest/Command line test.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/tests.GoogleTest/Command line test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/GoogleTest.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,24 +44,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="33" lean-forward="false" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+            <state relative-caret-position="561">
+              <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GoogleTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/GoogleTest.java">
+      <file leaf-file-name="WebDriverUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/utils/WebDriverUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="48" column="39" lean-forward="true" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+            <state relative-caret-position="374">
+              <caret line="22" column="72" lean-forward="false" selection-start-line="22" selection-start-column="72" selection-end-line="22" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#781#789#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JavaTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/tests/JavaTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="45" column="69" lean-forward="false" selection-start-line="45" selection-start-column="69" selection-end-line="45" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#730#738#0" expanded="true" />
+                <element signature="e#787#788#0" expanded="true" />
+                <element signature="e#823#824#0" expanded="true" />
+                <element signature="e#2317#2318#0" expanded="true" />
+                <element signature="e#2346#2347#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RubyTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/tests/RubyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#616#628#0" expanded="true" />
+                <element signature="e#669#677#0" expanded="true" />
+                <element signature="e#726#727#0" expanded="true" />
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#2387#2388#0" expanded="true" />
+                <element signature="e#2416#2417#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,11 +104,10 @@
       <file leaf-file-name="GoogleMainPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/pages/GoogleMainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
                 <element signature="e#498#499#0" expanded="true" />
               </folding>
             </state>
@@ -165,16 +200,25 @@
         <option value="$PROJECT_DIR$/src/test/java/tests/googleTest/pages/GoogleSearchPageImpl.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/googleTest/pages/GoogleMainPageImpl.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/tests/FirstTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/googleTest/GoogleTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/googleTest/pages/GoogleSearchPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/googleTest/pages/GoogleEmailPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/googleTest/pages/GoogleMainPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/googleTest/SearchTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/googleTest/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/googleTest/TestGmail.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/googleTest/pages/GoogleMainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/googleTest/RubyTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/googleTest/JavaTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/GoogleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/SetUpDriver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/WebDriverUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/googleTest/tests/JavaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/googleTest/tests/RubyTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/googleTest/utils/WebDriverUtils.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -285,6 +329,26 @@
               <item name="googleTest" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="test_google" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_google" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="googleTest" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_google" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_google" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="googleTest" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -294,6 +358,9 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -312,11 +379,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.GoogleTest">
+  <component name="RunManager" selected="TestNG.WebDriverUtils">
     <configuration name="FirstTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="tests.googleTest.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,7 +414,7 @@
     <configuration name="GoogleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="tests.googleTest.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -366,7 +433,7 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="tests.googleTest.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,10 +490,10 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
-    <configuration name="GoogleTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="tests.googleTest.TestMain" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -434,8 +501,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.GoogleTest" />
+      <option name="PACKAGE_NAME" value="tests.googleTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.googleTest.SearchTest" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -455,10 +522,10 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="SearchTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WebDriverUtils" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="tests.googleTest.*" />
+          <option name="PATTERN" value="tests.googleTest.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -466,8 +533,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="tests.googleTest" />
-      <option name="MAIN_CLASS_NAME" value="tests.googleTest.SearchTest" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.googleTest.utils.WebDriverUtils" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -524,12 +591,12 @@
       <item index="0" class="java.lang.String" itemvalue="Android JUnit.FirstTest" />
       <item index="1" class="java.lang.String" itemvalue="Application.GoogleTest" />
       <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.GoogleTest" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.WebDriverUtils" />
       <item index="4" class="java.lang.String" itemvalue="TestNG.SearchTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.GoogleTest" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.WebDriverUtils" />
         <item index="1" class="java.lang.String" itemvalue="Application.GoogleTest" />
         <item index="2" class="java.lang.String" itemvalue="TestNG.SearchTest" />
         <item index="3" class="java.lang.String" itemvalue="Application.Main" />
@@ -597,18 +664,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirstTest - 2018.03.15 at 10h 27m 04s.xml">
-      <configuration name="FirstTest" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="FirstTest - 2018.03.15 at 10h 30m 24s.xml">
-      <configuration name="FirstTest" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="FirstTest - 2018.03.15 at 10h 49m 03s.xml">
-      <configuration name="FirstTest" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="FirstTest - 2018.03.15 at 11h 04m 27s.xml">
-      <configuration name="FirstTest" configurationId="AndroidJUnit" />
-    </history-entry>
     <history-entry file="FirstTest - 2018.03.15 at 11h 04m 55s.xml">
       <configuration name="FirstTest" configurationId="AndroidJUnit" />
     </history-entry>
@@ -622,6 +677,18 @@
       <configuration name="GoogleTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="GoogleTest - 2018.03.16 at 10h 46m 32s.xml">
+      <configuration name="GoogleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GoogleTest - 2018.03.16 at 10h 59m 35s.xml">
+      <configuration name="GoogleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GoogleTest - 2018.03.16 at 11h 16m 23s.xml">
+      <configuration name="GoogleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GoogleTest - 2018.03.16 at 11h 16m 52s.xml">
+      <configuration name="GoogleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GoogleTest - 2018.03.16 at 11h 17m 46s.xml">
       <configuration name="GoogleTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="SearchTest - 2018.03.16 at 10h 25m 00s.xml">
@@ -670,7 +737,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="30" />
+      <option name="time" value="33" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -707,7 +774,6 @@
           <caret line="13" column="57" lean-forward="false" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
             <element signature="e#498#499#0" expanded="true" />
           </folding>
         </state>
@@ -721,13 +787,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/GoogleTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/utils/WebDriverUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1241">
           <caret line="73" column="44" lean-forward="true" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#781#789#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -845,31 +910,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="33" lean-forward="false" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/SearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/pages/GoogleMainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -883,23 +928,160 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/GoogleTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="48" column="39" lean-forward="true" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+        <state relative-caret-position="136">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/pages/GoogleMainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#781#789#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/tests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/tests/JavaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="45" column="69" lean-forward="false" selection-start-line="45" selection-start-column="69" selection-end-line="45" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#730#738#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#2317#2318#0" expanded="true" />
+            <element signature="e#2346#2347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/tests/RubyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#616#628#0" expanded="true" />
+            <element signature="e#669#677#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#2387#2388#0" expanded="true" />
+            <element signature="e#2416#2417#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/googleTest/utils/WebDriverUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="72" lean-forward="false" selection-start-line="22" selection-start-column="72" selection-end-line="22" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>test_google</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib-nodep:3.2.4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

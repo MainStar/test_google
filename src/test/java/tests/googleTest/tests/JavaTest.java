@@ -1,42 +1,31 @@
-package tests;
+package tests.googleTest.tests;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
+import tests.googleTest.utils.WebDriverUtils;
 import tests.googleTest.pages.GoogleMainPage;
 import tests.googleTest.pages.GoogleSearchPage;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class GoogleTest {
+public class JavaTest extends WebDriverUtils {
 
-    private WebDriver driver;
+    WebDriver driver;
 
     private WebElement search;
     private WebElement googleSearchButton;
     private List<WebElement> webElements;
     private List<String> urls = new ArrayList<String>();
 
-    @BeforeTest
-    public WebDriver setUp(){
-        String browser = System.getProperty("browser.param");
-        if (browser.equals("chrome")){
-            System.setProperty("webdriver.chrome.driver", "C:/Users/user/Desktop/Downloads/chromedriver.exe");
-            driver = new ChromeDriver();
-        }else if (browser.equals("firefox")){
-            System.setProperty("webdriver.gecko.driver", "C:/Users/user/Desktop/geckodriver.exe");
-            driver = new FirefoxDriver();
-        }
-        //driver.manage().window().maximize();
-        return driver;
+    @BeforeClass
+    public void setDriver(){
+        driver = getDriver();
     }
 
     @Test
@@ -54,22 +43,17 @@ public class GoogleTest {
         GoogleSearchPage searchPage = PageFactory.initElements(driver, GoogleSearchPage.class);
 
         //Assert.assertEquals("java - Поиск в Google", driver.getTitle());
+        Assert.assertEquals(driver.getTitle(), "java - Поиск в Google", "java - Поиск в Google");
+
 
         webElements = searchPage.googleSearchTitlesTest(driver);
         for (int i = 0; i < webElements.size(); i++){
             System.out.println(webElements.get(i).getText());
-            urls.add(webElements.get(i).getText());
+                urls.add(webElements.get(i).getText());
         }
         for (int i = 0; i < urls.size(); i++){
-            driver.get(urls.get(i));
+                driver.get(urls.get(i));
             checkTitle(driver.getTitle());
-        }
-    }
-
-    @AfterTest
-    public void tearDown(){
-        if (driver != null) {
-            driver.quit();
         }
     }
 
@@ -82,5 +66,10 @@ public class GoogleTest {
                 org.junit.Assert.assertNotEquals("Java", titleMass[i]);
             }
         }
+    }
+
+    @AfterClass
+    public void shutdown(){
+        driver.quit();
     }
 }

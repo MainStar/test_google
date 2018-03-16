@@ -1,3 +1,5 @@
 tests\googleTest\pages\GoogleSearchPage.class
 tests\googleTest\pages\GoogleMainPage.class
-tests\GoogleTest.class
+tests\googleTest\utils\WebDriverUtils.class
+tests\googleTest\tests\RubyTest.class
+tests\googleTest\tests\JavaTest.class
