@@ -1,23 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 17.333 sec <<< FAILURE!
-resultSearchTest(tests.googleTest.tests.JavaTest)  Time elapsed: 0.011 sec  <<< FAILURE!
-java.lang.AssertionError: java - ĞŸĞ¾Ğ¸ÑĞº Ğ² Google expected [java - ĞŸĞ¾Ğ¸ÑĞº Ğ² Google] but found [java - Ïîèñê â Google]
-	at org.testng.Assert.fail(Assert.java:96)
-	at org.testng.Assert.failNotEquals(Assert.java:776)
-	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
-	at org.testng.Assert.assertEquals(Assert.java:118)
-	at org.testng.Assert.assertEquals(Assert.java:453)
-	at tests.googleTest.tests.JavaTest.resultSearchTest(JavaTest.java:46)
-
-resultSearchTest(tests.googleTest.tests.RubyTest)  Time elapsed: 0.01 sec  <<< FAILURE!
-java.lang.AssertionError: expected [Ruby - Ïîèñê â Google] but found [Ruby - ĞŸĞ¾Ğ¸ÑĞº Ğ² Google]
-	at org.testng.Assert.fail(Assert.java:96)
-	at org.testng.Assert.failNotEquals(Assert.java:776)
-	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
-	at org.testng.Assert.assertEquals(Assert.java:118)
-	at org.testng.Assert.assertEquals(Assert.java:453)
-	at org.testng.Assert.assertEquals(Assert.java:463)
-	at tests.googleTest.tests.RubyTest.resultSearchTest(RubyTest.java:41)
-
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 283.015 sec
